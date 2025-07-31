@@ -2,4 +2,5 @@ Anyone can learn Git with this tutorial and Backlog
 add: Register a change in an index
 Hello master.
 Hello test!
-Hello Java!
+Hello C!
+Hello Ruby!
