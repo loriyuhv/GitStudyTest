@@ -3,3 +3,5 @@ add: Register a change in an index
 Hello master.
 Hello test!
 Hello Java!
+Hello CSS!
+Hello Vue!
